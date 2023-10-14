@@ -1,0 +1,159 @@
+@media (width > 768px){
+.peoplesection{
+    grid-template-columns: auto auto auto auto auto auto;
+    column-gap: 21px;
+}
+.face1{
+    margin-bottom: 28px;
+    width: 110px;
+    height: 110px;
+}
+.face2{
+    width: 110px;
+    height: 110px;
+}
+.face3{
+    margin-bottom: 28px;
+    width: 110px;
+    height: 110px;
+}
+.face4{
+    width: 110px;
+    height: 110px;
+}
+.face5{
+    margin-bottom: 28px;
+    width: 110px;
+    height: 110px;
+}
+.face6{
+    width: 110px;
+    height: 110px;
+}
+.face7{
+    margin-bottom: 28px;
+    width: 110px;
+    height: 110px;
+}
+.face8{
+    width: 110px;
+    height: 110px;
+}
+.face9{
+    margin-bottom: 28px;
+    margin-bottom: 28px;
+    width: 110px;
+    height: 110px;
+}
+.face10{
+    width: 110px;
+    height: 110px;
+}
+.face11{
+    margin-bottom: 28px;
+    width: 110px;
+    height: 110px;
+}
+.face12{
+    width: 110px;
+    height: 110px;
+}
+.buttons{
+    display: flex;
+    flex-direction: row;
+}
+.button2{
+    margin-top: 0;
+    margin-left: 16px;
+}
+.imgbox{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.textbox2{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+footer{
+    height: 428px;
+    background-image: url(./assets/footermiakhalifa.png);
+}
+h1{
+    width: 339px;
+}
+h2{
+    width: 457px;
+}
+h6{
+    width: 573px;
+}
+}
+
+@media (width > 1440px){
+.nonvisiblediv{
+    display: inline-flex;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    flex-direction: column;
+    margin-top: 90px;
+}
+.textbox1{
+    display: none;
+}
+.textbox2{
+    margin-top: 66px;
+}
+footer{
+    height: 308px;
+    display: flex;
+    flex-direction: row;
+    background-image: url(./assets/footermiakhalifa2.png);
+}
+p{
+    margin: 200px 0 200px 100px;
+    width: 350px;
+    color: #FAFAFA;
+    font-family: 'Red Hat Display';
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 44px;
+}
+h6{
+    margin: 200px 92px 200px 125px;
+    width: 350px;
+    color: #FAFAFA;
+    font-family: 'Red Hat Display';
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 26px;
+  }
+h3 {
+    width: 275px;
+    height: 26px;
+}
+
+h4 {
+    width: 350px;
+    height: 88px;
+}
+h5 {
+    width: 450px;
+    height: 78px;
+}
+.button3{
+    margin: 180px 165px 200px 90px;
+  }
+.peoplesection{
+    grid-template-columns: auto auto auto auto auto auto auto;
+    column-gap: 45.40px;
+  }
+.squareimg {
+    width: 255px;
+    height: 242px;
+  }
+}
